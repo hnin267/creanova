@@ -15,3 +15,6 @@
 .carousel-caption {
   background: rgb(0, 0, 0, 0.5);
 }
+.rating {
+  text-align: center;
+}
