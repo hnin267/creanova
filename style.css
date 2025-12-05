@@ -7,14 +7,20 @@
 }
 .active {
   font-weight: bold;
-  border-bottom: 2px solid#E3B23C;
+  border-bottom: 2px solid #e3b23c;
 }
 .navbar-nav a:hover {
-  border-bottom: 2px solid#E3B23C;
+  border-bottom: 2px solid #e3b23c;
 }
 .carousel-caption {
-  background: rgb(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.5);
 }
 .rating {
   text-align: center;
+}
+.enroll-btn {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1.1rem;
+  border-radius: 8px;
 }
